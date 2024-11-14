@@ -1,0 +1,8 @@
+whisper-timestamped
+pyannote.audio
+onnxruntime
+torchaudio
+pandas
+python-dotenv
+tqdm
+git+https://github.com/frenzymadness/ffmpeg-python.git@rm_future
